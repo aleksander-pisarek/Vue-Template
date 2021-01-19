@@ -1,4 +1,4 @@
-# cryptoapp
+# Vue template
 
 ## Project setup
 ```
