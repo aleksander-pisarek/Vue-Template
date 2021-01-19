@@ -1,4 +1,4 @@
-# Vue template
+# Vue template with SASS, eslint, priettier, router, vuex, chai 
 
 ## Project setup
 ```
