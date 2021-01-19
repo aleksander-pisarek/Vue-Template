@@ -1,11 +1,11 @@
 import { createRouter, createWebHistory } from "vue-router";
-import Home from "../views/Home";
+import Home from '../views/Home';
 
 const routes = [
   {
-        path: '/',
+    path: '/Home',
     name: "Home",
-    component: Home
+    component: Home,
   },
   {
     // route level code-splitting

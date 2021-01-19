@@ -1,8 +1,6 @@
 <template>
   <nav>
-    <router-link id="router-link" to="/">
-    <div class="menu-item"><a href="#">Home</a></div>
-    </router-link>
+    <router-link id="router-link" to="/Home">Home</router-link>
   </nav>
 </template>
 
